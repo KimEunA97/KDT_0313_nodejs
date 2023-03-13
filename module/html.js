@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+module.exports = `<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -10,10 +10,8 @@
 
 <body>
 
-  <script>
-    console.log("asd");
-  </script>
+  <h1>나는 서버다!</h1>
 
 </body>
 
-</html>
+</html>`
